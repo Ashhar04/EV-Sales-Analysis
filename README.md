@@ -52,7 +52,6 @@ EV market strategists
 
 Data science portfolio demonstration
 
-📝 Author
-Your Name
+📝 Author-
 Ashhar04
 
